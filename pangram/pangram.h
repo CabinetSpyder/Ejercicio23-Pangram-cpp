@@ -3,7 +3,7 @@
 
 #include <cctype>
 #include <string>
-#include <vector>
+#include <unordered_set>
 
 namespace pangram {
     
